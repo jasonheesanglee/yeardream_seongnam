@@ -1,7 +1,7 @@
 # yeardream_seongnam
 
 <p align='center'>
-  <img width="162" alt="image" src="https://github.com/jasonheesanglee/yeardream_seongnam/assets/123557477/03cb85cb-ea80-4f3b-aaa2-096342eb9ca1">
+  <img width="314" alt="image" src="https://github.com/jasonheesanglee/yeardream_seongnam/assets/123557477/03cb85cb-ea80-4f3b-aaa2-096342eb9ca1">
 </p>
 
 안녕하세요! <br>
